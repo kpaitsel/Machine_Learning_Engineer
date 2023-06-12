@@ -1,3 +1,9 @@
+
+
+https://github.com/kpaitsel/Machine_Learning_Engineer/commit/08e0581b9c78a303c4ce3079785a33fe76baabb0
+(this is the link to Linear Regression Visualization)
+
+
 --------------------------------------------------------------------------
 # Importing naumpy and pandas libraries to read the data
 
@@ -398,3 +404,6 @@ print(r2_score(y_test,y_test_pred))
 0.792103160124566
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 -----------------------------------------------------------
+
+
+
