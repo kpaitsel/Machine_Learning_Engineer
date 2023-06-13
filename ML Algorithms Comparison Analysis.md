@@ -1,4 +1,5 @@
-C:/Users/kpait/OneDrive/Desktop/Machine%20Learning%20Engineer/Analysis%20of%20ML%20Algorithms%20for%20Classification%20Purpose.pdf
+
+[Analysis of ML Algorithms for Classification Purpose.pdf](https://github.com/kpaitsel/Machine_Learning_Engineer/files/11731658/Analysis.of.ML.Algorithms.for.Classification.Purpose.pdf)
 
 PDF
 
